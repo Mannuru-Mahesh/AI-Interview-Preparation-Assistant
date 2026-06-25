@@ -116,11 +116,11 @@ http://localhost:8501
 
 ## Author
 
-**Harika Lankalapalli**
+**Mannuru Mahesh**
 
-B.Tech, Computer Science and Engineering
+M.Tech, Computer Science and Engineering
 
-KL University
+Lovely Professional University
 
 ## License
 
